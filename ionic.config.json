@@ -1,0 +1,7 @@
+{
+  "name": "talkcorrect",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
